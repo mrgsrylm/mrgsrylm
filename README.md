@@ -68,4 +68,4 @@ I am Software Engineer looking to solve real world problems. I have a passion fo
 <a href="https://www.dribbble.com/gusrylmubarok/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/dribbble.svg"> </a>
 
 ___
-[![Counting](https://visitcount.itsvg.in/api?id=gusrylmubarok)](https://visitcount.itsvg.in)
+[![Counting](https://visitcount.itsvg.in/api?id=gusrylmubarok&icon=7&color=12)](https://visitcount.itsvg.in)
