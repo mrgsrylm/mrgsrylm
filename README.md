@@ -14,7 +14,7 @@ I am Software Engineer looking to solve real world problems. I have a passion fo
 
 |||
 |---|---|
-|![gusryl github stat](https://github-readme-stats.vercel.app/api?username=gusrylmubarok&show_icons=true&hide_border=true&theme=graywhite)|![gusryl top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GusrylMubarok&layout=compact&hide=html,css,scss,PLpgSQL&langs_count=4&hide_border=true&theme=graywhite)|
+|![gusryl github stat](https://github-readme-stats.vercel.app/api?username=gusrylmubarok&show_icons=true&hide_border=true&theme=graywhite)|![gusryl top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GusrylMubarok&layout=compact&hide=html,css,scss,vue,PLpgSQL&langs_count=4&hide_border=true&theme=graywhite)|
 ||| 
 
 </p>
@@ -32,7 +32,6 @@ I am Software Engineer looking to solve real world problems. I have a passion fo
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/nodedotjs.svg"> </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/php.svg"> </a> 
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/kotlin.svg"> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/react.svg"> </a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/python.svg"> </a> 
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/npm.svg"> </a> 
 <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/yarn.svg"> </a> 
