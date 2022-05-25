@@ -5,7 +5,7 @@ I am Software Engineer looking to solve real world problems. I have a passion fo
 ```json
 {
     "name": "AGUS SYAHRIL MUBAROK",
-    "message": "Your life becomes a masterpiece when you learn to master piece."
+    "message": "Your life becomes a masterpiece when you learn to master piece.",
 }
 ```
 ###  🌱 I'm currently learning not to open many tabs in the browser
@@ -18,7 +18,7 @@ I am Software Engineer looking to solve real world problems. I have a passion fo
 ||| 
 
 </p>
-
+<!--
 ###  🔧 Favorite tools and technology
 <p align="left">
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/linux.svg"> </a>
@@ -53,6 +53,7 @@ I am Software Engineer looking to solve real world problems. I have a passion fo
 </p>
     
 </p>
+-->
 
 ###  💬 Connect with me
 <a href="https://www.linkedin.com/in/agussyahrilmubarok/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"> </a>
