@@ -14,7 +14,7 @@ I am Software Engineer looking to solve real world problems. I have a passion fo
 
 |||
 |---|---|
-|![gusryl github stat](https://github-readme-stats.vercel.app/api?username=gusrylmubarok&show_icons=true&hide_border=true&theme=graywhite)|![gusryl top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GusrylMubarok&layout=compact&hide=html,css,scss,vue,angular,PLpgSQL,blade&langs_count=4&hide_border=true&theme=graywhite)|
+|![gusryl github stat](https://github-readme-stats.vercel.app/api?username=gusrylmubarok&show_icons=true&hide_border=true&theme=graywhite)|![gusryl top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GusrylMubarok&layout=compact&hide=html,css,scss,vue,angular,PLpgSQL,blade,typescript&langs_count=4&hide_border=true&theme=graywhite)|
 ||| 
 
 </p>
