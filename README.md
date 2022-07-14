@@ -1,5 +1,4 @@
-## Hi
-I am Software Engineer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out [@gusrylmubarok](https://instagram.com/gusrylmubarok/) or give some message on [mail](mailto:gusrylmubarok@gmail.com). Feel free to reach out in case you want to just get in touch also.
+<b>Hi</b>, I am Software Engineer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out [@gusrylmubarok](https://instagram.com/gusrylmubarok/) or give some message on [mail](mailto:gusrylmubarok@gmail.com). Feel free to reach out in case you want to just get in touch also.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/agussyahrilmubarok/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg"> </a>
@@ -68,9 +67,5 @@ I am Software Engineer looking to solve real world problems. I have a passion fo
 </p>
     
 </p>
--->
-
-
-
 ___
-[![Counting](https://visitcount.itsvg.in/api?id=gusrylmubarok&icon=7&color=12)](https://visitcount.itsvg.in)
+[![Counting](https://visitcount.itsvg.in/api?id=gusrylmubarok&icon=7&color=12)](https://visitcount.itsvg.in) -->
