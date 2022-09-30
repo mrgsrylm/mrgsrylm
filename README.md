@@ -28,44 +28,5 @@
 
 |||
 |---|---|
-|![gusryl github stat](https://github-readme-stats.vercel.app/api?username=gusrylmubarok&show_icons=true&hide_border=true&theme=dark)|![gusryl top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GusrylMubarok&layout=compact&hide=html,css,scss,angular,PLpgSQL,blade,dockerfile,ejs,vue,freemarker,makefile&langs_count=8&hide_border=true&theme=dark)|
+|![gusryl github stat](https://github-readme-stats.vercel.app/api?username=gusrylmubarok&show_icons=true&hide_border=true&theme=algolia&count_private=true)|![gusryl top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GusrylMubarok&layout=compact&hide=html,css,scss,angular,PLpgSQL,blade,dockerfile,ejs,vue,freemarker,makefile&langs_count=10&hide_border=true&theme=algolia&&count_private=true)|
 ||| 
-
-</p>
-<!--
-###  🔧 Favorite tools and technology
-<p align="left">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/linux.svg"> </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/visualstudiocode.svg"> </a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/intellijidea.svg"> </a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/androidstudio.svg"> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/docker.svg"> </a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/java.svg"> </a> 
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/go.svg"> </a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/javascript.svg"> </a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/nodedotjs.svg"> </a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/php.svg"> </a> 
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/kotlin.svg"> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/python.svg"> </a> 
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/npm.svg"> </a> 
-<a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/yarn.svg"> </a> 
-<a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/gradle.svg"> </a>
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/apachemaven.svg"> </a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/postgresql.svg"> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/mongodb.svg"> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/express.svg"> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/spring.svg"> </a> 
-<a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/codeigniter.svg"> </a> 
-<a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/nginx.svg"> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/git.svg"> </a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/postman.svg"> </a>
-<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/swagger.svg"> </a>
-<a href="https://gnupg.org/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/gnuprivacyguard.svg"> </a>
-<a href="https://aws.amazon.com/id/" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/amazonaws.svg"> </a>   
-<a href="https://www.amd.com/en" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/amd.svg"> </a>
-<a href="" target="_blank" rel="noreferrer"> <img height="28" width="28" src="https://unpkg.com/simple-icons@v6/icons/github.svg"> </a>
-</p>
-    
-</p>
-___
-[![Counting](https://visitcount.itsvg.in/api?id=gusrylmubarok&icon=7&color=12)](https://visitcount.itsvg.in) -->
