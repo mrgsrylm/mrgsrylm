@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/agussyahrilmubarok/" target="_blank" rel="noreferrer"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 <a href="https://www.instagram.com/gusrylmubarok/" target="_blank" rel="noreferrer"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
-<a href="https://twitter.com/gusrylmubarok76/" target="_blank" rel="noreferrer"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
+<a href="https://twitter.com/gusrylmubarok/" target="_blank" rel="noreferrer"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
 <a href="https://gusrylmubarok.medium.com/" target="_blank" rel="noreferrer"> ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) </a>
 <a href="https://stackoverflow.com/users/16186091/gusrylmubarok" target="_blank" rel="noreferrer"> ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) </a>
 <a href="https://gitlab.com/gusrylmubarok/" target="_blank" rel="noreferrer"> ![GitLab](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) </a>
