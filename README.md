@@ -7,7 +7,7 @@
 <a href="https://twitter.com/gusrylmubarok/" target="_blank" rel="noreferrer"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
 <a href="https://gusrylmubarok.medium.com/" target="_blank" rel="noreferrer"> ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) </a>
 <a href="https://stackoverflow.com/users/16186091/gusrylmubarok" target="_blank" rel="noreferrer"> ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) </a>
-<a href="https://gitlab.com/gusrylmubarok/" target="_blank" rel="noreferrer"> ![GitLab](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) </a>
+<!--<a href="https://gitlab.com/gusrylmubarok/" target="_blank" rel="noreferrer"> ![GitLab](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) </a> -->
 <a href="https://www.hackerrank.com/gusrylmubarok/" target="_blank" rel="noreferrer"> ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
 <a href="https://www.upwork.com/in/gusrylmubarok/" target="_blank" rel="noreferrer"> ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)  </a>
 <a href="https://www.behance.com/gusrylmubarok/" target="_blank" rel="noreferrer"> ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) </a>
@@ -29,5 +29,5 @@
 
 |||
 |---|---|
-|![gusryl github stat](https://github-readme-stats.vercel.app/api?username=gusrylmubarok&show_icons=true&hide_border=true&theme=algolia&count_private=true)|![gusryl top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GusrylMubarok&layout=compact&hide=html,css,scss,angular,PLpgSQL,blade,dockerfile,ejs,vue,freemarker,makefile,cmake&langs_count=8&hide_border=true&theme=algolia&&count_private=true)|
+|![gusryl github stat](https://github-readme-stats.vercel.app/api?username=gusrylmubarok&show_icons=true&hide_border=true&theme=algolia&count_private=true)|![gusryl top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GusrylMubarok&layout=compact&hide=html,css,scss,angular,PLpgSQL,blade,dockerfile,ejs,vue,freemarker,makefile,cmake,purebasic&langs_count=8&hide_border=true&theme=algolia&&count_private=true)|
 ||| 
