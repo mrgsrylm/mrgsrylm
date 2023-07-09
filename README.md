@@ -29,5 +29,5 @@
 
 |||
 |---|---|
-|![gusryl github stat](https://github-readme-stats.vercel.app/api?username=gusrylmubarok&show_icons=true&hide_border=true&theme=algolia&count_private=true)|![gusryl top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GusrylMubarok&layout=compact&hide=html,css,scss,angular,PLpgSQL,blade,dockerfile,ejs,vue,freemarker,makefile,cmake,purebasic&langs_count=8&hide_border=true&theme=algolia&&count_private=true)|
+|![gusryl github stat](https://github-readme-stats.vercel.app/api?username=gusriil&show_icons=true&hide_border=true&theme=algolia&count_private=true)|![gusryl top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Gusriil&layout=compact&hide=html,css,scss,angular,PLpgSQL,blade,dockerfile,ejs,vue,freemarker,makefile,cmake,purebasic&langs_count=8&hide_border=true&theme=algolia&&count_private=true)|
 ||| 
