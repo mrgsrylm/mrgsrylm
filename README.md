@@ -1,11 +1,11 @@
-<b>Hi</b>, I am Software Engineer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out [@gusrylmubarok](https://instagram.com/gusrylmubarok/) or give some message on [mail](mailto:gusrylmubarok@gmail.com). Feel free to reach out in case you want to just get in touch also.
+<b>Hi</b>, I am Software Engineer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out [@me](https://instagram.com/gusrylmubarok/) or give some message on [mail](mailto:gusrylmubarok@gmail.com). Feel free to reach out in case you want to just get in touch also.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/agussyahrilmubarok/" target="_blank" rel="noreferrer"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-<a href="https://www.instagram.com/gusrylmubarok/" target="_blank" rel="noreferrer"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
+<a href="https://www.instagram.com/gusriil/" target="_blank" rel="noreferrer"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
 <a href="https://twitter.com/gusrylmubarok/" target="_blank" rel="noreferrer"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
-<a href="https://gusrylmubarok.medium.com/" target="_blank" rel="noreferrer"> ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) </a>
+<a href="https://gusriil.medium.com/" target="_blank" rel="noreferrer"> ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) </a>
 <a href="https://stackoverflow.com/users/16186091/gusrylmubarok" target="_blank" rel="noreferrer"> ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) </a>
 <!--<a href="https://gitlab.com/gusrylmubarok/" target="_blank" rel="noreferrer"> ![GitLab](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) </a> -->
 <a href="https://www.hackerrank.com/gusrylmubarok/" target="_blank" rel="noreferrer"> ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
