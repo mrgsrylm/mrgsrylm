@@ -9,6 +9,7 @@
 <a href="https://stackoverflow.com/users/16186091/mrgsrylm" target="_blank" rel="noreferrer"> ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) </a>
 <!--<a href="https://gitlab.com/mrgsrylm/" target="_blank" rel="noreferrer"> ![GitLab](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) </a> -->
 <a href="https://www.hackerrank.com/mrgsrylm/" target="_blank" rel="noreferrer"> ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white) </a>
+<a href="https://www.kaggle.com/in/agussyahrilmubarok/" target="_blank" rel="noreferrer"> ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)  </a>
 <a href="https://www.upwork.com/in/gusrylmubarok/" target="_blank" rel="noreferrer"> ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)  </a>
 <a href="https://www.behance.com/agussyahril/" target="_blank" rel="noreferrer"> ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white) </a>
 <a href="https://www.dribbble.com/mrgsrylm/" target="_blank" rel="noreferrer"> ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) </a>
