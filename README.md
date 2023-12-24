@@ -30,5 +30,5 @@
 
 |||
 |---|---|
-|![mrgsrylm github stat](https://github-readme-stats.vercel.app/api?username=mrgsrylm&show_icons=true&hide_border=true&theme=algolia&count_private=true)|![mrgsrylm top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgsrylm&layout=compact&hide=html,css,scss,angular,PLpgSQL,blade,dockerfile,ejs,vue,freemarker,makefile,cmake,purebasic,ipynb,jupyter%20notebook&langs_count=8&hide_border=true&theme=algolia&&count_private=true)|
+|![mrgsrylm github stat](https://github-readme-stats.vercel.app/api?username=mrgsrylm&show_icons=true&hide_border=true&theme=algolia&count_private=true)|![mrgsrylm top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgsrylm&layout=compact&hide=html,css,scss,angular,PLpgSQL,blade,dockerfile,ejs,vue,freemarker,makefile,cmake,purebasic,ipynb,jupyter%20notebook,assembly,javascript&langs_count=8&hide_border=true&theme=algolia&&count_private=true)|
 ||| 
