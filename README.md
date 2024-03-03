@@ -1,4 +1,4 @@
-<b>Hi</b>, I am Software Engineer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out [@me](https://instagram.com/gusrylmubarok/) or give some message on [mail](mailto:gusrylmubarok@gmail.com). Feel free to reach out in case you want to just get in touch also.
+<b>Hi</b>, I am Software Engineer looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. If you found value in something I have created, please feel free to give me a shout out [@me](https://instagram.com/mrgsrylm/) or give some message on [mail](mailto:gusrylmubarok@gmail.com). Feel free to reach out in case you want to just get in touch also.
 
 <div align="center">
 
